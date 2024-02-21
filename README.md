@@ -4,4 +4,4 @@
 
 -> There's a seperate python file for each websites that are scrapped, which includes specific selectors for fetching titles with respective links to route.
 
--> Hence, can add multiple websites by this strategy, all in one inddex.py file.
+-> Hence, can add multiple websites by this strategy, all in one index.py file.
